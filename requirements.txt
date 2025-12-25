@@ -1,0 +1,26 @@
+# EMBER - Early Malignancy Biomarker Evaluation and Recognition
+# Requirements for Quantum Lung Cancer Detection System
+
+# Core Data Science
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Quantum Computing - Qiskit
+qiskit>=0.45.0
+qiskit-aer>=0.13.0
+qiskit-algorithms>=0.2.0
+qiskit-machine-learning>=0.6.0
+
+# Web Application
+streamlit>=1.28.0
+plotly>=5.15.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Utilities
+pillow>=9.0.0
